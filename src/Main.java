@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("I'm learning git pushing project");
         System.out.println("Everything is gonna be fine");
+        System.out.println("You're gonna going really good");
     }
 }
