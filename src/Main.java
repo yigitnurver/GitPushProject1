@@ -7,5 +7,11 @@ public class Main {
         System.out.println("Everything is gonna be fine");
         System.out.println("You're gonna going really good");
         System.out.println("I'm gonna get the job asap");
+
+        String str="Hello syntax";
+
+        System.out.println(str.charAt(2));
+
+        System.out.println(str.substring(6,12));
     }
 }
