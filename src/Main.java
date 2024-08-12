@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("I'm learning git pushing project");
+        System.out.println("Everything is gonna be fine");
     }
 }
